@@ -26,6 +26,11 @@
     "outFields": "Risk_band"
   },
   {
+    "key": "wetReservoirs",
+    "url": "https://services1.arcgis.com/JZM7qJpmv7vJ0Hzx/arcgis/rest/services/Reservoir_Flood_Extents_Merged_NON_PRODUCTION/FeatureServer/0",
+    "outFields": "Risk_band"
+  },
+  {
     "key": "surfaceWaterCC",
     "url": "https://services1.arcgis.com/JZM7qJpmv7vJ0Hzx/arcgis/rest/services/Risk_of_Flooding_from_Surface_Water_Depth_CCSW1_0mm_NON_PRODUCTION/FeatureServer/0",
     "outFields": "Risk_band"
