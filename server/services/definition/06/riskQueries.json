@@ -22,7 +22,12 @@
   },
   {
     "key": "dryReservoirs",
-    "url": "https://services1.arcgis.com/JZM7qJpmv7vJ0Hzx/arcgis/rest/services/Reservoir_Flood_Extents_Merged_NON_PRODUCTION/FeatureServer/0",
+    "url": "https://services1.arcgis.com/JZM7qJpmv7vJ0Hzx/arcgis/rest/services/Reservoir_Flood_Extents_NON_PRODUCTION/FeatureServer/0",
+    "outFields": "Risk_band"
+  },
+  {
+    "key": "wetReservoirs",
+    "url": "https://services1.arcgis.com/JZM7qJpmv7vJ0Hzx/arcgis/rest/services/Reservoir_Flood_Extents_NON_PRODUCTION/FeatureServer/1",
     "outFields": "Risk_band"
   },
   {
